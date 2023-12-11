@@ -2,7 +2,7 @@
 #'
 #' This function allows you to add asterisks to arbitrary values; conditional on p-values.
 #' @param lead Should leading zeroes be shown? FALSE
-#' @param digits How many digits should the target value be rounded to? TRUE
+#' @param digits How many digits should the target value be rounded to? 2
 #' @keywords asterisks
 #' @export
 #' @examples
